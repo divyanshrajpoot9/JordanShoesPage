@@ -1,5 +1,6 @@
 # JordanShoesPage
-# Hosted file link:
+## Hosted file link: https://divyanshrajpoot9.github.io/JordanShoesPage/
+### Important tags and attributes used are as follows:
 
 
 ![Screenshot 2023-09-03 190227](https://github.com/divyanshrajpoot9/JordanShoesPage/assets/114856467/0718d512-c788-4b3b-84f2-dd81b89812ff)
